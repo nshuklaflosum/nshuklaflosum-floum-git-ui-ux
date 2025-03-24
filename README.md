@@ -1,0 +1,1 @@
+A modern, scalable frontend interface designed for Flosum's Git integration platform. Built using Vue 3, TypeScript, and Vite, the application enables users to visually manage agents, repositories, bidirectional sync, and deployment workflows with precision and ease.
